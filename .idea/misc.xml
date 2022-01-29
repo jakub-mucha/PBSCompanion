@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/PBSCompanion/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/PBSCompanion/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
         <entry key="..\:/Users/Jakub/AndroidStudioProjects/PBSCompanion/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/PBSCompanion/app/src/main/res/layout/fragment_dashboard.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Jakub/AndroidStudioProjects/PBSCompanion/app/src/main/res/layout/fragment_notifications.xml" value="0.28940217391304346" />
       </map>
     </option>
   </component>
